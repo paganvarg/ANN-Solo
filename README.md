@@ -9,7 +9,7 @@ To use it build the image using (from the repo folder):
 docker image build -t ann_solo:latest .
 ```
 
-This will create an ann_solo:latest image
+This will create an *ann_solo:latest* image.
 To run it call:
 ```docker
 docker run -it ann_solo:latest
